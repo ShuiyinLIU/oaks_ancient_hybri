@@ -1,0 +1,62 @@
+#with best ML tree
+treefile = RAxML_bipartitions.mp80_overlap324.ActionV2_4.223.sra_p0.3_Fagaceae222_rm0.005tips.tre
+outfile = dated.cp158_4c5f.tre
+cvoutfile = cv.cp158_4c5f
+
+mrca = CG_Fagaceae Fagus_crenata_NC_041252.1 Trigonobalanus_doichangensis_KF990556.1
+max = CG_Fagaceae 89.81
+
+mrca = CG_Fagaceae Fagus_crenata_NC_041252.1 Trigonobalanus_doichangensis_KF990556.1
+min = CG_Fagaceae 81
+
+mrca = CG_Fagus Fagus_crenata_NC_041252.1 FAlucida_trans
+min = CG_Fagus 47
+
+#RNA2821MCCtree mean time of CG_Quercoideae
+#mrca = CG_Quercoideae Trigonobalanus_doichangensis_KF990556.1 ILtarokoensis_F079_WA12_A
+#max = CG_Quercoideae 78.83    
+
+#HYB98MCCtree mean time of CG_Quercoideae
+#mrca = CG_Quercoideae Trigonobalanus_doichangensis_KF990556.1 ILtarokoensis_F079_WA12_A
+#min = CG_Quercoideae 67.91
+
+#mrca = SG_Castanopsis CTseguinii_F080_WD07 CPfissa_F080_WG01
+#min = SG_Castanopsis 52.22
+
+#mrca = SG_genusQuercus NLdensiflorus_K003_WA07 CEsuber_F079_WC02_A
+#min = SG_genusQuercus 56
+
+#mrca = SG_sectCyclobalanopsis CYsichourensis_P001_WE10_A CEsuber_F079_WC02_A
+#min = SG_sectCyclobalanopsis 48.32
+
+#mrca = SG_alpinecladeOfsectIL ILspinosa_P011_WF10_A ILengleriana_F079_WC01_A
+#min = SG_alpinecladeOfsectIL 34.6
+
+mrca = SG_EAcladeOfsectCE CEacutissima_MH607377.1 CElibani_P004_WD10_A
+min = SG_EAcladeOfsectCE 30
+
+mrca = SG_sectLobatae LOwislizeni_F079_WF10_A POpontica_P002_WC09_A
+min = SG_sectLobatae 47.8
+
+#mrca = CG_sectQuercus QUlobata_P010_WE03_A QUdentata_F086_WG03_A
+#min = CG_sectQuercus 45
+
+numsites = 135243
+cv
+cvstart = 10000
+cvstop = 0.0001
+cvmultstep = 0.1
+
+nthreads = 5
+
+thorough
+
+[prime]
+#above run the first treePL analysis
+opt = 2
+moredetail
+optad = 2
+moredetailad
+optcvad = 1
+
+##above run the second treePL analysis

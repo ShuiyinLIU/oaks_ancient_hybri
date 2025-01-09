@@ -1,0 +1,74 @@
+#NEXUS
+begin trees;
+
+	tree tree1 = [&R] ((((MYRMyrica_gale_trans[&qf=0.9203440538519072]:0.0,MYRMorella_nana_trans[&qf=0.9329359165424739]:0.0)[&label=QS3,freq=1,qc=1,qd=NA,qi=1,reps=1.7e+02,score=1/NA/1]:4.350994525426155,(JUGJuglans_mandshurica_trans[&qf=0.9236583522297808]:0.0,JUGCarya_illinoinensis_trans[&qf=0.913465269693442]:0.0)[&label=QS4,freq=1,qc=1,qd=NA,qi=1,reps=1.7e+02,score=1/NA/1]:4.080358320247362)[&label=QS2,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:1.8382336395907335,(CASCasuarina_equisetifolia_trans[&qf=0.9365965834428384]:0.0,(TICTicodendron_incognitum_trans[&qf=0.9185004074979625]:0.0,(CSmonbeigiana_trans[&qf=0.9209358612343687]:0.0,BETBetula_luminifera_trans[&qf=0.9224872231686542]:0.0)[&label=QS7,freq=1,qc=1,qd=NA,qi=1,reps=86,score=1/NA/1]:2.3034810095599862)[&label=QS6,freq=1,qc=1,qd=NA,qi=1,reps=1.7e+02,score=1/NA/1]:1.3099121912010845)[&label=QS5,freq=1,qc=1,qd=NA,qi=1,reps=9.7e+02,score=1/NA/1]:4.040943785494983)[&label=QS1,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:3.1928781773089896,(((FAengleriana_trans_A[&qf=0.9404905508644954]:0.0,FAjaponica_trans[&qf=0.9334945586457074]:0.0)[&label=QS10,freq=1,qc=1,qd=NA,qi=1,reps=3.3e+02,score=1/NA/1]:1.1137814554531416,(FAgrandifolia_trans[&qf=0.8736842105263158]:0.0,(FAsylvatica_trans_A[&qf=0.8531206006569686]:0.0,(FAcrenata_SRR8607405_A[&qf=0.8825201326385599]:0.0,FAlucida_trans[&qf=0.880466472303207]:0.0)[&label=QS13,freq=0.78,qc=0.45,qd=0.21,qi=0.99,reps=86,score=0.45/0.21/0.99]:0.23826664624327115)[&label=QS12,freq=0.12,qc=-0.22,qd=0.48,qi=0.97,reps=1.7e+02,score=-0.22/0.48/0.97]:0.040991365185932)[&label=QS11,freq=1,qc=1,qd=NA,qi=1,reps=5e+02,score=1/NA/1]:0.666815638815831)[&label=QS9,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:3.4494123974535964,(TRdoichangensis_trans[&qf=0.9572619874913134]:0.0,(((CPcalathiformis_trans[&qf=0.9531785306433194]:0.0,(CPorthacantha_trans[&qf=0.9490990990990991]:0.0,CPdelavayi_trans[&qf=0.9383280036546369]:0.0)[&label=QS18,freq=1,qc=1,qd=NA,qi=1,reps=86,score=1/NA/1]:0.6286961178633909)[&label=QS17,freq=1,qc=1,qd=NA,qi=1,reps=9.6e+02,score=1/NA/1]:1.4328935641451723,(CTpumila_trans[&qf=0.9564032697547684]:0.0,(CThenryi_trans[&qf=0.9277726001863933]:0.0,((CTsativa_trans[&qf=0.9346733668341709]:0.0,CTmollissima_SRR10199566_A[&qf=0.9327354260089686]:0.0)[&label=QS22,freq=1,qc=1,qd=NA,qi=1,reps=1.7e+02,score=1/NA/1]:0.822797160463861,(CTcrenata_ERR2040354_A[&qf=0.9348931841302136]:0.0,CTseguinii_trans_A[&qf=0.9379689844922461]:0.0)[&label=QS23,freq=1,qc=1,qd=NA,qi=1,reps=1.7e+02,score=1/NA/1]:0.4181736002712052)[&label=QS21,freq=1,qc=1,qd=NA,qi=1,reps=3.4e+02,score=1/NA/1]:0.5106210641051295)[&label=QS20,freq=1,qc=1,qd=NA,qi=1,reps=3.3e+02,score=1/NA/1]:0.44660544565763904)[&label=QS19,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:2.2014467005449596)[&label=QS16,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:2.203733931260658,((LPcorneus_trans_A[&qf=0.9237903225806452]:0.0,(LPdealbatus_trans_A[&qf=0.9131313131313131]:0.0,(LPpolystachyus_SRR10238508_A[&qf=0.9053497942386831]:0.0,(LPmairei_trans_A[&qf=0.8421052631578947]:0.0,((LPhenryi_HM_A[&qf=0.8616960728514513]:0.0,LPhancei_trans_A[&qf=0.8324901630129287]:0.0)[&label=QS30,freq=0.99,qc=0.91,qd=0,qi=0.99,reps=1.7e+02,score=0.91/0/0.99]:0.24200964026926897,(LPechinophorus_trans_A[&qf=0.8614357262103506]:0.0,LPglaber_trans_A[&qf=0.8452722063037249]:0.0)[&label=QS31,freq=0.98,qc=0.87,qd=0,qi=0.99,reps=1.7e+02,score=0.87/0/0.99]:0.18634554258065966)[&label=QS29,freq=0.63,qc=0.19,qd=0.61,qi=0.96,reps=3.4e+02,score=0.19/0.61/0.96]:0.031650241037529205)[&label=QS28,freq=1,qc=1,qd=NA,qi=1,reps=3.3e+02,score=1/NA/1]:0.3364270739304648)[&label=QS27,freq=1,qc=1,qd=NA,qi=1,reps=4.1e+02,score=1/NA/1]:1.268808503326078)[&label=QS26,freq=1,qc=0.98,qd=0,qi=1,reps=4.9e+02,score=0.98/0/1]:0.3643305276908888)[&label=QS25,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:1.7234100927392706,(CHchrysophylla_trans[&qf=0.7313213102686786]:0.0,(NLdensiflorus_trans[&qf=0.7874629080118695]:0.0,(((LOpalustris_trans_A[&qf=0.7784476262245666]:0.0,(LObenthamii_trans_A[&qf=0.5842241061555473]:0.0,((LOrubra_SRR1778919_A[&qf=0.5131782945736434]:0.0,(LOellipsoidalis_trans_A[&qf=0.6673238048299655]:0.0,(LOacerifolia_trans_A[&qf=0.6530172413793104]:0.0,(LOshumardii_trans_A[&qf=0.7009194159004868]:0.0,LOvelutina_trans_A[&qf=0.722011898323418]:0.0)[&label=QS42,freq=0.35,qc=-0.28,qd=0.11,qi=0.99,reps=86,score=-0.28/0.11/0.99]:0.031726185458090646)[&label=QS41,freq=0.48,qc=-0.3,qd=0.068,qi=0.99,reps=1.7e+02,score=-0.3/0.068/0.99]:0.12215848807785006)[&label=QS40,freq=0.89,qc=0.51,qd=0,qi=1,reps=2.5e+02,score=0.51/0/1]:0.05915536132459907)[&label=QS39,freq=0.21,qc=-0.48,qd=0.028,qi=0.99,reps=1e+03,score=-0.48/0.028/0.99]:0.04210328443191509,(LOmarilandica_trans_A[&qf=0.6961583236321304]:0.0,(LOimbricaria_trans_A[&qf=0.5569923371647509]:0.0,(LOfalcata_trans_A[&qf=0.6207422470767666]:0.0,(LOarkansana_trans_A[&qf=0.6992481203007519]:0.0,(LOnigra_trans_A[&qf=0.7179347826086957]:0.0,LOphellos_trans_A[&qf=0.6368243243243243]:0.0)[&label=QS47,freq=0.68,qc=0.099,qd=0,qi=0.95,reps=86,score=0.099/0/0.95]:0.06407086254752571)[&label=QS46,freq=0.64,qc=0.21,qd=0.58,qi=0.98,reps=1.7e+02,score=0.21/0.58/0.98]:0.013621127795297928)[&label=QS45,freq=0.31,qc=-0.09,qd=0.48,qi=0.98,reps=2.5e+02,score=-0.09/0.48/0.98]:0.03201950526099196)[&label=QS44,freq=0.17,qc=-0.35,qd=0.19,qi=0.98,reps=3.3e+02,score=-0.35/0.19/0.98]:0.04875072634674613)[&label=QS43,freq=0.81,qc=0.47,qd=0.36,qi=0.98,reps=1e+03,score=0.47/0.36/0.98]:0.10376446097137482)[&label=QS38,freq=0.45,qc=0.047,qd=0.73,qi=0.98,reps=1e+03,score=0.047/0.73/0.98]:0.06844470397224992)[&label=QS37,freq=0.45,qc=0.061,qd=0.64,qi=0.97,reps=8.4e+02,score=0.061/0.64/0.97]:0.03585197245085803)[&label=QS36,freq=1,qc=0.96,qd=0,qi=1,reps=1e+03,score=0.96/0/1]:2.5476483455775374,((PRcedrosensis_trans_A[&qf=0.8972300281011641]:0.0,(PRpalmeri_trans_A[&qf=0.9324186991869918]:0.0,PRchrysolepis_trans_A[&qf=0.8631471040492056]:0.0)[&label=QS50,freq=0.82,qc=0.32,qd=0,qi=0.98,reps=86,score=0.32/0/0.98]:0.14805337284724582)[&label=QS49,freq=0.88,qc=0.65,qd=0.084,qi=0.99,reps=1e+03,score=0.65/0.084/0.99]:0.11301762782086018,(VIvirginiana_trans_A[&qf=0.9506614229531641]:0.0,((QUgarryana_trans_A[&qf=0.8382038488952245]:0.0,QUdumosa_trans_A[&qf=0.8574000720201657]:0.0)[&label=QS53,freq=0.99,qc=0.94,qd=0.8,qi=1,reps=1e+03,score=0.94/0.8/1]:0.21621399780834197,((QUgreggii_trans_A[&qf=0.7462165308498254]:0.0,(QUstellata_trans_A[&qf=0.7180343511450382]:0.0,QUboyntonii_trans_A[&qf=0.6968824940047962]:0.0)[&label=QS56,freq=1,qc=1,qd=NA,qi=1,reps=86,score=1/NA/1]:0.6719166835716799)[&label=QS55,freq=0.94,qc=0.75,qd=0.86,qi=0.99,reps=1e+03,score=0.75/0.86/0.99]:0.13521673822862593,((LOlobata_SRR10196237_A[&qf=0.7182462927143778]:0.0,((QUmontana_trans_A[&qf=0.7697893972403776]:0.0,(QUalba_trans_A[&qf=0.74395329441201]:0.0,NNmichauxii_trans_A[&qf=0.7554991539763113]:0.0)[&label=QS61,freq=0.94,qc=0.68,qd=0,qi=1,reps=86,score=0.68/0/1]:0.21953894095729318)[&label=QS60,freq=0.83,qc=0.5,qd=0.39,qi=0.99,reps=8.1e+02,score=0.5/0.39/0.99]:0.11723791344714578,((QUmuehlenbergii_trans_A[&qf=0.7765273311897106]:0.0,QUprinoides_trans_A[&qf=0.7990295188030732]:0.0)[&label=QS63,freq=1,qc=1,qd=NA,qi=1,reps=2.5e+02,score=1/NA/1]:0.45579249136790173,(QUmacrocarpa_trans_A[&qf=0.803680981595092]:0.0,(QUlyrata_trans_A[&qf=0.8183398522381573]:0.0,QUbicolor_trans_A[&qf=0.7734340293203021]:0.0)[&label=QS65,freq=0.94,qc=0.77,qd=0.4,qi=0.97,reps=86,score=0.77/0.4/0.97]:0.1575143142833154)[&label=QS64,freq=1,qc=1,qd=NA,qi=1,reps=3.4e+02,score=1/NA/1]:0.4461182897439504)[&label=QS62,freq=0.63,qc=0.23,qd=0.39,qi=0.97,reps=1e+03,score=0.23/0.39/0.97]:0.07451958796302209)[&label=QS59,freq=0.66,qc=0.36,qd=0.11,qi=0.99,reps=1e+03,score=0.36/0.11/0.99]:0.04046587505521403)[&label=QS58,freq=0.66,qc=0.29,qd=0.28,qi=0.99,reps=1e+03,score=0.29/0.28/0.99]:0.04923893373188654,(((QUserrata_trans_A[&qf=0.8220784472300849]:0.0,QUaliena_trans_A[&qf=0.8269311945968764]:0.0)[&label=QS68,freq=0.95,qc=0.72,qd=0,qi=1,reps=2.5e+02,score=0.72/0/1]:0.2848295079573987,(QUdentata_trans_A[&qf=0.7307530500631048]:0.0,(QUmongolica_SRR13594255_A[&qf=0.7984134391040597]:0.0,QUwutaishanica_SRR8499370_A[&qf=0.7864559819413093]:0.0)[&label=QS70,freq=0.44,qc=-0.0098,qd=0,qi=1,reps=86,score=-0.0098/0/1]:0.061436759808639885)[&label=QS69,freq=0.22,qc=-0.089,qd=0.6,qi=1,reps=3.4e+02,score=-0.089/0.6/1]:0.0152261104147444)[&label=QS67,freq=0.99,qc=0.95,qd=0.89,qi=1,reps=1e+03,score=0.95/0.89/1]:0.38051680091241374,((QUrobur_ERR3348506_A[&qf=0.8372476308199424]:0.0,QUinfectoria_trans_A[&qf=0.8080068876452863]:0.0)[&label=QS72,freq=0.62,qc=0.33,qd=0.084,qi=0.99,reps=2.5e+02,score=0.33/0.084/0.99]:0.06698670550293521,((QUpubescens_SRR9937075_A[&qf=0.8046296296296296]:0.0,QUpetraea_trans_A[&qf=0.7903225806451613]:0.0)[&label=QS74,freq=0.084,qc=-0.48,qd=0.18,qi=0.97,reps=86,score=-0.48/0.18/0.97]:0.02309309368860943,QUfrainetto_trans_A[&qf=0.7896070975918885]:0.0)[&label=QS73,freq=0.76,qc=0.36,qd=0.63,qi=0.98,reps=3.4e+02,score=0.36/0.63/0.98]:0.07252449337203586)[&label=QS71,freq=0.95,qc=0.79,qd=0.72,qi=1,reps=1e+03,score=0.79/0.72/1]:0.17633330002103742)[&label=QS66,freq=0.99,qc=0.93,qd=0.57,qi=0.99,reps=1e+03,score=0.93/0.57/0.99]:0.4174887699236516)[&label=QS57,freq=0.22,qc=-0.39,qd=0.093,qi=0.99,reps=1e+03,score=-0.39/0.093/0.99]:0.058666653311119366)[&label=QS54,freq=0.41,qc=-0.073,qd=0.53,qi=0.98,reps=1e+03,score=-0.073/0.53/0.98]:0.022494888587113005)[&label=QS52,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:0.4088409059956235)[&label=QS51,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:0.9141969360308994)[&label=QS48,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:1.0357584209118187)[&label=QS35,freq=0.75,qc=0.33,qd=0.93,qi=0.96,reps=1e+03,score=0.33/0.93/0.96]:0.0938758828937702,(((ILfranchetii_HM_A[&qf=0.9282945736434108]:0.0,ILilex_trans_A[&qf=0.915234375]:0.0)[&label=QS77,freq=0.95,qc=0.7,qd=0,qi=0.99,reps=5.6e+02,score=0.7/0/0.99]:0.20321562297064977,((CEacutissima_trans_A[&qf=0.9356579493565795]:0.0,CEvariabilis_trans_A[&qf=0.932520325203252]:0.0)[&label=QS79,freq=1,qc=1,qd=NA,qi=1,reps=4.1e+02,score=1/NA/1]:0.7212591836272868,(CEsuber_trans_A[&qf=0.9093918080264791]:0.0,((CEcastaneifolia_trans_A[&qf=0.862118320610687]:0.0,CEcerris_trans_A[&qf=0.8509286412512219]:0.0)[&label=QS82,freq=0.74,qc=0.38,qd=0.29,qi=0.96,reps=1.7e+02,score=0.38/0.29/0.96]:0.09504746622537502,(CEtrojana_trans_A[&qf=0.8677685950413223]:0.0,CElibani_trans_A[&qf=0.8728323699421965]:0.0)[&label=QS83,freq=0.71,qc=0.13,qd=0,qi=0.98,reps=1.7e+02,score=0.13/0/0.98]:0.12036740562108032)[&label=QS81,freq=0.89,qc=0.64,qd=0.28,qi=0.98,reps=3.4e+02,score=0.64/0.28/0.98]:0.20276270827002998)[&label=QS80,freq=1,qc=1,qd=NA,qi=1,reps=6.6e+02,score=1/NA/1]:0.3199629532321958)[&label=QS78,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:2.07685460507465)[&label=QS76,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:0.42768740653558435,((CYglauca_HM_A[&qf=0.8890489913544669]:0.0,CYschottkyana_trans_A[&qf=0.9096470588235294]:0.0)[&label=QS85,freq=1,qc=1,qd=NA,qi=1,reps=2.5e+02,score=1/NA/1]:1.4742228302543174,(CYsichourensis_trans_A[&qf=0.9089544772386193]:0.0,(CYaustrocochi_SRR2016707_A[&qf=0.8953678474114442]:0.0,CYkerrii_SRR2017698_A[&qf=0.8694489031567684]:0.0)[&label=QS87,freq=1,qc=1,qd=NA,qi=1,reps=86,score=1/NA/1]:1.1897568624803643)[&label=QS86,freq=1,qc=1,qd=NA,qi=1,reps=3.4e+02,score=1/NA/1]:1.5572759799261118)[&label=QS84,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:0.9521333822642764)[&label=QS75,freq=0.76,qc=0.43,qd=0.18,qi=0.97,reps=1e+03,score=0.43/0.18/0.97]:0.1405872569652053)[&label=QS34,freq=0.6,qc=0.17,qd=0.57,qi=0.95,reps=1e+03,score=0.17/0.57/0.95]:0.06317516180756284)[&label=QS33,freq=0.95,qc=0.72,qd=0,qi=0.99,reps=1e+03,score=0.72/0/0.99]:0.349013564907006)[&label=QS32,freq=0.45,qc=-0.18,qd=0.27,qi=0.95,reps=1e+03,score=-0.18/0.27/0.95]:0.03789425045956492)[&label=QS24,freq=0.99,qc=0.92,qd=0,qi=1,reps=1e+03,score=0.92/0/1]:0.5999014276701693)[&label=QS15,freq=1,qc=0.97,qd=0,qi=1,reps=1e+03,score=0.97/0/1]:0.7823849185834074)[&label=QS14,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:4.4525243973402455)[&label=QS8,freq=1,qc=1,qd=NA,qi=1,reps=1e+03,score=1/NA/1]:3.1928781773089896):0.0;
+
+end;
+
+
+
+begin figtree;
+
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="freq";
+	set appearance.branchLineWidth=1.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
