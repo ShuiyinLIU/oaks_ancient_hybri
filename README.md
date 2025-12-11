@@ -4,4 +4,4 @@ The resulting data and trees, and customized scripts used in our research are pr
 
 If you use these scripts, please cite our published article:
 
-Shuiyin Liu, Yingying Yang, Qin Tian, Zhiyun Yang, Shufeng Li, Paul J. Valdes, Alex Farnsworth, Heather R. Kates, Carolina M. Siniscalchi, Robert P. Guralnick, Douglas E. Soltis, Pamela S. Soltis, Gregory W. Stull*, Ryan A. Folk*, Tingshuang Yi*. 2024. An integrative framework reveals widespread gene flow during the early radiation of oaks and relatives in Quercoideae (Fagaceae). Journal of Integrative Plant Biology. 67: 1119-1141. https://doi.org/10.1111/jipb.13773.
+Shuiyin Liu, Yingying Yang, Qin Tian, Zhiyun Yang, Shufeng Li, Paul J. Valdes, Alex Farnsworth, Heather R. Kates, Carolina M. Siniscalchi, Robert P. Guralnick, Douglas E. Soltis, Pamela S. Soltis, Gregory W. Stull*, Ryan A. Folk*, Tingshuang Yi*. 2024. An integrative framework reveals widespread gene flow during the early radiation of oaks and relatives in Quercoideae (Fagaceae). Journal of Integrative Plant Biology 67: 1119-1141. https://doi.org/10.1111/jipb.13773.
