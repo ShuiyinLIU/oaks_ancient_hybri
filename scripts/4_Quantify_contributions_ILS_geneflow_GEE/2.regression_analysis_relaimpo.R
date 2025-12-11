@@ -97,39 +97,6 @@ x_raw=read.csv('relative_contribution_ILS_Err_Intro.csv')
 x=x_raw[(x_raw$X.1=="IN")&(x_raw$X1_ILS!=Inf),]
 
 
-#without log transformations
-data=x[,c('Y_BSsum','X1_ILS','X2_Err','X3_Hyb')]
-bootimpo.result <- boot.relimp(data, b = 100,
-                    type = c("lmg", "last", "first", "pratt"),
-                    rank = TRUE, diff = TRUE, rela = TRUE)
-booteval.relimp(bootimpo.result)
-
-##Adding interaction terms in the regression model 
-linmod <- lm(Y_BSsum ~ log(X1_ILS)+log(X2_Err)+log(X3_Hyb)+log(X1_ILS * X2_Err) + log(X1_ILS * X3_Hyb) + log(X2_Err * X3_Hyb)+log(X1_ILS * X3_Hyb*X2_Err), data = data)
-summary(linmod)
-
-## Plot
-pdf("relative_importances_1Fagaceae2oaks.pdf",width=10,height=8)
-plot(booteval.relimp(bootimpo.result))
-
-##### only genus Quercus
-x=x_raw[(x_raw$X.1=="IN")&(x_raw$X1_ILS!=Inf)&(x_raw$X.2=="oak"),]
-data=x[,c('Y_BSsum','X1_ILS','X2_Err','X3_Hyb')]
-bootimpo.result <- boot.relimp(data, b = 100,
-                               type = c("lmg", "last", "first", "pratt"),
-                               rank = TRUE, diff = TRUE, rela = TRUE)
-booteval.relimp(bootimpo.result)
-##Adding interaction terms in the regression model 
-linmod <- lm(Y_BSsum ~ log(X1_ILS)+log(X2_Err)+log(X3_Hyb)+log(X1_ILS * X2_Err) + log(X1_ILS * X3_Hyb) + log(X2_Err * X3_Hyb)+log(X1_ILS * X3_Hyb*X2_Err), data = data)
-summary(linmod)
-
-## Plot
-plot(booteval.relimp(bootimpo.result))
-
-dev.off()
-
-
-
 #####################################################
 ## apply log transformations to the regressors
 x=x_raw[(x_raw$X.1=="IN")&(x_raw$X1_ILS!=Inf),]
@@ -171,4 +138,5 @@ summary(linmod)
 plot(booteval.relimp(bootimpo.result))
 
 dev.off()
+
 
